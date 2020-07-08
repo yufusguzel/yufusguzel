@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.algemeen{width:100%; height:auto; margin:0 auto;}
+.top{width:100%; height:60px; background: #222222; border-radius: 10px;}
+.logo img{width:45px; height:45px; margin-left: 10px; margin-top: 7.5px; float: left}
+.menu{width: 1400px; height: 45px; float:left; margin-top: 7.5px; margin-left: 200px}
+.menu ul li{float: left; list-style-type:none; padding-right: 200px; line-height: 15px; margin-bottom: 300px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+.menu ul li a{color:aliceblue; text-decoration: none;}
+.menu ul li a:hover{color: #929292;}
+.banner img{width:100% ; height: 600px; border-radius: 10px;}
+.welkom hl{color: currentColor; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+.portfolio1 img{ width: 100%; border-radius: 10px;}
+.portfolio2 img{ width: 100%; border-radius: 10px;}
+.portfolio3 img{ width: 100%; border-radius: 10px;}
+.portfolio4 img{ width: 100%; border-radius: 10px;}
+.portfolio5 img{ width: 100%; border-radius: 10px;}
+.onder img{width: 100%; border-radius: 10px;}
+.aboutme{margin-left: 850px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"} 
+.aboutme2{margin-left: 850px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+.aboutme3{margin-left: 765px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"} 
+.contactnemen ul li{float: left; list-style-type:none; padding-right: 550px; line-height: 15px; margin-bottom: 300px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+.contactnemen ul li a{color: darkcyan; text-decoration: none;}
+.contactnemen ul li a:hover{color: darkslateblue;}
+.gfuellogo img{width: 150px; height: 39; margin-left: 600px; margin-top: 300px}      
+.razerlogo img{width: 150px; height: 39; margin-left: 900px; margin-bottom;500px}
